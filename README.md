@@ -1,16 +1,17 @@
-## Hi there 👋
+# Leah Wright
 
-<!--
-**leahwright10/leahwright10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Research Assistant | Python Developer 
 
-Here are some ideas to get you started:
+## What I Do
+Learning by building! Currently developing AI healthcare apps and web platforms while exploring the intersection of code and patient care.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- 🎵 **Music Therapy AI** – Patient-centered recommendation system using Spotify/YouTube APIs
+- 🌐 **Research Web Development** – WordPress sites for academic research communication
+- 🔬 **Healthcare Innovation** – Exploring ML applications in patient care
+
+## Tech I Use
+`Python` `Bash/Unix` `WordPress` `APIs` `Git` `Tkinter` `HTML/CSS`
+
+## 📫 Reach Me
+[Email](mailto:leahfwright64@gmail.com)
